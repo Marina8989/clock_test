@@ -1,0 +1,11 @@
+body {
+  background: rgb(142, 142, 142);
+  color: white;
+}
+
+.clock {
+  text-align: center;
+  font-weight: 700;
+  font-size: 27px;
+  padding-top: 55px;
+}
